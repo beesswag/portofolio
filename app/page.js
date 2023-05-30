@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <Hero />
+//       <Hero />
       <About />
       <Skills />
       <Project />
