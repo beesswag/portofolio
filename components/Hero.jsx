@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div id='hero' className='w-full h-screen text-center'>
         <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
-            <div className='mt-20'>
+            <div className=''>
                 <p className='uppercase text-sm tracking-widest'>Hi, There</p>
                 <h1 className='py-4'>
                     I'm <span className='text-[#0e79b2]'>Ayolekan.</span>
